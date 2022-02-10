@@ -78,7 +78,7 @@ $(document).ready(function() {
             }
           }
         } else {
-          insertResponseMessage('Oops, something went wrong. Please try again.');
+          insertResponseMessage('Pipeline Note implemented yet Sir');
         }
       })
       .catch((error) => {
