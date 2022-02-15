@@ -34,7 +34,9 @@ $(document).ready(function() {
           text: message
         }
       }]
-    }, {});
+    }, {
+      userID : 1,
+    });
   }
 
   function insertMessage() {
