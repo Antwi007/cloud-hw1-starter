@@ -32,8 +32,7 @@ $(document).ready(function() {
         type: 'unstructured',
         unstructured: {
           text: message
-        },
-        userID:1
+        }
       }]
     }, {
     });
